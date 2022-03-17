@@ -77,7 +77,10 @@ function deleteContact(id){
   color: #2c3e50;
   margin-top: 60px;
 }
-td{
+th{
+  padding: 1rem;
+}
+td, tr{
   padding: 0.5rem;
   padding-top: 0.5rem;
 }
@@ -87,7 +90,6 @@ img{
 
 .ironContacts{
   margin: auto;
-  width: 45rem;
 }
 
 button{
